@@ -35,6 +35,7 @@ In this README file:
 
 
   **Outputs:**
+https://github.com/Tazeensk/Sign-Language-Detector/blob/main/z%20sign.png
 
 
   
